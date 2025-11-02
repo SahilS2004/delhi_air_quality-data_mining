@@ -4,8 +4,8 @@
 Team Name: DataFlix
 Members:
 - Manu Vahan 
-- Sahil Sarawagi
-Mentor: Sanchit Aggarwal
+- Sahil Sarawgi
+- Mentor: Sanchit Aggarwal
 
 ---
 
