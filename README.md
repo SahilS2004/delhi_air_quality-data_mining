@@ -58,7 +58,7 @@ Dataset: [Delhi Air Quality Dataset](https://www.kaggle.com/datasets/kunshbhatia
 | Phase | Focus | Deliverables | Lead |
 |-------|--------|--------------|------|
 | 1 | Understanding + EDA | Cleaned data, notebook, visuals, report | Manu |
-| 2 | Predictive + Policy Impact | Forecasting, intervention analysis, final report | Sahil Sarawagi |
+| 2 | Predictive + Policy Impact | Forecasting, intervention analysis, final report | Sahil Sarawgi |
 
 Leadership will rotate in Phase 2.
 
