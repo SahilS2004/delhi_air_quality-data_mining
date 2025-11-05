@@ -192,5 +192,5 @@ By combining temporal, spatial, and event-based analysis with machine learning, 
 ---
 
 ### 🏁 Author
-**Sahil Sahil**
-**Manu Vahan**
+- **Sahil Sahil**
+- **Manu Vahan**
