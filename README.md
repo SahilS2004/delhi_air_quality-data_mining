@@ -36,37 +36,43 @@ Dataset: [Delhi Air Quality Dataset](https://www.kaggle.com/datasets/kunshbhatia
 
 ---
 
-# 🧪 Methodology Overview (Phase 1)
+# 🧪 Methodology Overview
+## Phase 1: Understanding + EDA (Completed)
 1. Data Collection → Kaggle dataset import.  
-2. Data Cleaning & Preprocessing 
+2. Data Cleaning & Preprocessing (notebook: `data-preprocessing.ipynb`)
    - Handle missing, duplicate, invalid entries.  
    - Standardize timestamps, numeric types, units.  
    - Add `year`, `month`, `season` columns.  
-3. Exploratory Data Analysis (EDA)  
+3. Exploratory Data Analysis (EDA) (notebook: `EDA and Feature Expansion.ipynb`)
    - Time-series trends.  
    - Monthly/seasonal boxplots.  
    - Correlation heatmaps.  
    - Station comparisons.  
-4. Interactive Analysis
-   - Year-selectable boxplot for PM2.5 outliers.  
-5. Documentation 
+   - Outlier detection and interactive visualizations.  
+4. Feature Engineering & Expansion
+   - Additional derived features for analysis.  
+5. Model Training
+   - Initial predictive models for air quality forecasting.  
+6. Documentation 
    - Insights, methods, and role division.
 
 ---
 
 # 📆 Phase-wise Plan
-| Phase | Focus | Deliverables | Lead |
-|-------|--------|--------------|------|
-| 1 | Understanding + EDA | Cleaned data, notebook, visuals, report | Manu |
-| 2 | Predictive + Policy Impact | Forecasting, intervention analysis, final report | Sahil Sarawgi |
+| Phase | Focus | Deliverables | Lead | Status |
+|-------|--------|--------------|------|--------|
+| 1 | Understanding + EDA | Cleaned data, notebook, visuals, report | Manu | ✅ Completed |
+| 2 | Predictive + Policy Impact | Forecasting, intervention analysis, final report | Sahil Sarawgi | ✅ Completed |
 
-Leadership will rotate in Phase 2.
+Project completed successfully with all phases delivered.
 
 ---
 
 # 📊 Expected Outcomes
-- Clear understanding of pollution patterns.  
-- Identification of major contributors & event impacts.  
+- Clear understanding of pollution patterns. 
+- Identification of major contributors & event impacts. 
 - Foundation for predictive analysis (Phase 2).
+- Feature engineering and expansion for enhanced analysis.
+- Visualizations and model training.
 
 ---
