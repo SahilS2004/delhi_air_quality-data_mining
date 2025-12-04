@@ -42,11 +42,10 @@ This project aims to bridge that gap using **modern data mining and visualizatio
 
 **Attributes:**
 - `Date`, `Time`
-- `Station Name`
 - Pollutants: `PM2.5`, `PM10`, `NO₂`, `CO`, `O₃`, `SO₂`
 - `AQI (Air Quality Index)`
 
-**Data Coverage:** 2018–2023 (varies across stations)
+**Data Coverage:** 2021–2024
 
 **Additional Data Sources:**
 - Meteorological data (temperature, humidity, wind speed)
